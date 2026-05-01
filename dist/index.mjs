@@ -1,0 +1,1 @@
+var t=async e=>({statusCode:200,headers:{"content-type":"application/json"},body:JSON.stringify({ok:!0,message:"svs lambda is running",requestId:e.requestContext.requestId,timestamp:new Date().toISOString()})});export{t as handler};
