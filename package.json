@@ -10,6 +10,6 @@
     "svs-deploy": "./bin/svs-deploy.mjs"
   },
   "dependencies": {
-    "@aws-sdk/client-lambda": "^3.1040.0"
+    "@aws-sdk/client-lambda": "^3.1158.0"
   }
 }

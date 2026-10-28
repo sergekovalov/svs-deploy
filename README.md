@@ -10,6 +10,11 @@ Lightweight serverless alternative for deploying a Lambda function without the S
    npm install
    ```
 
+2. Link the bin
+   ```
+   npm link
+   ```
+
 2. Copy env file:
 
    ```bash
